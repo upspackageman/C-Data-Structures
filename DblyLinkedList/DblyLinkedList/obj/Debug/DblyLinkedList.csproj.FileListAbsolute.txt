@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DblyLinkedList\DblyLinkedList\bin\Debug\DblyLinkedList.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DblyLinkedList\DblyLinkedList\obj\Debug\DblyLinkedList.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DblyLinkedList\DblyLinkedList\bin\Debug\DblyLinkedList.exe
+c:\users\user\documents\visual studio 2015\Projects\DblyLinkedList\DblyLinkedList\bin\Debug\DblyLinkedList.pdb
+c:\users\user\documents\visual studio 2015\Projects\DblyLinkedList\DblyLinkedList\obj\Debug\DblyLinkedList.exe
+c:\users\user\documents\visual studio 2015\Projects\DblyLinkedList\DblyLinkedList\obj\Debug\DblyLinkedList.pdb

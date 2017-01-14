@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\HeapifyProject\HeapifyProject\bin\Debug\HeapifyProject.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HeapifyProject\HeapifyProject\bin\Debug\HeapifyProject.exe
+c:\users\user\documents\visual studio 2015\Projects\HeapifyProject\HeapifyProject\bin\Debug\HeapifyProject.pdb
+c:\users\user\documents\visual studio 2015\Projects\HeapifyProject\HeapifyProject\obj\Debug\HeapifyProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HeapifyProject\HeapifyProject\obj\Debug\HeapifyProject.exe
+c:\users\user\documents\visual studio 2015\Projects\HeapifyProject\HeapifyProject\obj\Debug\HeapifyProject.pdb
