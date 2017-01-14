@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe
+c:\users\user\documents\visual studio 2015\Projects\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.pdb
+c:\users\user\documents\visual studio 2015\Projects\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.exe
+c:\users\user\documents\visual studio 2015\Projects\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.pdb
